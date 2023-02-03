@@ -1,0 +1,79 @@
+body{
+	background-color:#CFDAC8;
+}
+
+
+.one{
+	font-size:2cm;
+}
+
+
+.two{
+	font-size:10mm;
+}
+
+
+.three{
+	font-size:3inch;
+}
+
+
+.four{
+	font-size:15px;
+}
+
+
+.five{
+	font-size:20pt;
+}
+
+
+.six{
+	font-size:3.5pc;
+}
+
+
+.a{
+	font-size:0.5em;
+}
+
+
+.b{
+	font-size:2ex;
+}
+
+
+.c{
+	font-size:2ch;
+}
+
+
+.d{
+	font-size:3rem;
+}
+
+
+.e{
+	font-size:20vw;
+}
+
+
+.f{
+	font-size:15vh;
+}
+
+
+.g{
+	font-size:17vmin;
+}
+
+
+
+.h{
+	font-size:10vmax;
+}
+
+
+.i{
+	font-size:120%;
+}
